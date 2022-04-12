@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en-US" data-semplice="5.3.1">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+<meta name='robots' content='noindex, follow' />
+
+<title>Page not found - Gravitoken</title>
+<meta property="og:locale" content="en_US" />
+<meta property="og:title" content="Page not found - Gravitoken" />
+<meta property="og:site_name" content="Gravitoken" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://gravitoken.co.uk/#website","url":"https://gravitoken.co.uk/","name":"Gravitoken","description":"Gravity-free token","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://gravitoken.co.uk/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/gravitoken.co.uk\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://gravitoken.co.uk/wp/wp-includes/css/dist/block-library/style.min.css?ver=5.9.1' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://gravitoken.co.uk/wp/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://gravitoken.co.uk/wp/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.9.1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='wp-video-popup-css' href='https://gravitoken.co.uk/wp-content/plugins/responsive-youtube-vimeo-popup/assets/css/wp-video-popup.css?ver=2.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='semplice-stylesheet-css' href='https://gravitoken.co.uk/wp-content/themes/semplice5/style.css?ver=5.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='semplice-frontend-stylesheet-css' href='https://gravitoken.co.uk/wp-content/themes/semplice5/assets/css/frontend.min.css?ver=5.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://gravitoken.co.uk/wp-content/plugins/jetpack/css/jetpack.css?ver=10.7' type='text/css' media='all' />
+<script type='text/javascript' src='https://gravitoken.co.uk/wp/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://gravitoken.co.uk/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://gravitoken.co.uk/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://gravitoken.co.uk/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://gravitoken.co.uk/wp/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.9.1" />
+<style type='text/css'>img#wpstats{display:none}</style>
+<style type="text/css" id="semplice-webfonts-selfhosted">@font-face {font-family: 'GalanoGrotesque-BlackItalic';src: url('https://gravitoken.co.uk/wp-content/uploads/2021/09/GalanoGrotesque-BlackItalic.otf') format('opentype');}@font-face {font-family: 'GalanoGrotesque-HeavyItalic';src: url('https://gravitoken.co.uk/wp-content/uploads/2021/09/GalanoGrotesque-HeavyItalic.otf') format('opentype');}@font-face {font-family: 'GalanoGrotesque-SemiBoldItalic';src: url('https://gravitoken.co.uk/wp-content/uploads/2021/09/GalanoGrotesque-SemiBoldItalic.otf') format('opentype');}@font-face {font-family: 'GalanoGrotesque-BoldItalic';src: url('https://gravitoken.co.uk/wp-content/uploads/2021/09/GalanoGrotesque-BoldItalic.otf') format('opentype');}@font-face {font-family: 'GalanoGrotesque-ExtraBoldItalic';src: url('https://gravitoken.co.uk/wp-content/uploads/2021/09/GalanoGrotesque-ExtraBoldItalic.otf') format('opentype');}@font-face {font-family: 'SpaceMono-BoldItalic';src: url('https://gravitoken.co.uk/wp-content/uploads/2021/09/SpaceMono-BoldItalic.ttf') format('truetype');}@font-face {font-family: 'SpaceMono-Bold';src: url('https://gravitoken.co.uk/wp-content/uploads/2021/09/SpaceMono-Bold.ttf') format('truetype');}@font-face {font-family: 'SpaceMono-Regular';src: url('https://gravitoken.co.uk/wp-content/uploads/2021/09/SpaceMono-Regular.ttf') format('truetype');}@font-face {font-family: 'SpaceMono-Italic';src: url('https://gravitoken.co.uk/wp-content/uploads/2021/09/SpaceMono-Italic.ttf') format('truetype');}</style><style type="text/css" id="semplice-webfonts-css">.font_32xbt764f, [data-font="font_32xbt764f"], [data-font="font_32xbt764f"] li a {font-family: "GalanoGrotesque-BlackItalic", sans-serif;font-weight: 400;font-style: normal;}.font_0gn87vg05, [data-font="font_0gn87vg05"], [data-font="font_0gn87vg05"] li a {font-family: "GalanoGrotesque-HeavyItalic", sans-serif;font-weight: 400;font-style: normal;}.font_175w47s82, [data-font="font_175w47s82"], [data-font="font_175w47s82"] li a {font-family: "GalanoGrotesque-SemiBoldItalic", sans-serif;font-weight: 400;font-style: normal;}.font_nls4vtzrg, [data-font="font_nls4vtzrg"], [data-font="font_nls4vtzrg"] li a {font-family: "GalanoGrotesque-BoldItalic", sans-serif;font-weight: 400;font-style: normal;}.font_ogimvo616, [data-font="font_ogimvo616"], [data-font="font_ogimvo616"] li a {font-family: "GalanoGrotesque-ExtraBoldItalic", sans-serif;font-weight: 400;font-style: normal;}.font_xidrav6qc, [data-font="font_xidrav6qc"], [data-font="font_xidrav6qc"] li a {font-family: "SpaceMono-BoldItalic", sans-serif;font-weight: 400;font-style: normal;}.font_1a9vm0e41, [data-font="font_1a9vm0e41"], [data-font="font_1a9vm0e41"] li a, #content-holder h1, #content-holder h2, #content-holder h3, #content-holder h4 {font-family: "SpaceMono-Bold", sans-serif;font-weight: 400;font-style: normal;}.font_sa3i0n8np, [data-font="font_sa3i0n8np"], [data-font="font_sa3i0n8np"] li a, #content-holder h5, #content-holder h6, #content-holder p, #content-holder li {font-family: "SpaceMono-Regular", sans-serif;font-weight: 400;font-style: normal;}.font_atrg8j2ek, [data-font="font_atrg8j2ek"], [data-font="font_atrg8j2ek"] li a {font-family: "SpaceMono-Italic", sans-serif;font-weight: 400;font-style: normal;}</style>
+<style type="text/css" id="semplice-custom-css">
+			
+			#content-holder h1 { font-size: 3rem;line-height: 3rem;}#content-holder h2 { font-size: 2.7777777777777777rem;line-height: 2.8333333333333335rem;}#content-holder h3 { font-size: 2.2222222222222223rem;line-height: 2.6666666666666665rem;}#content-holder h4 { font-size: 1.9444444444444444rem;line-height: 2.2222222222222223rem;}#content-holder h5 { font-size: 1.6666666666666667rem;line-height: 1.8888888888888888rem;}#content-holder h6 { font-size: 1.5rem;line-height: 1.6111111111111112rem;}#customize #custom_f2dsrj711 p, #content-holder .custom_f2dsrj711 { background-color:transparent;color:#000000;text-transform:none;font-family: "Open Sans", Arial, sans-serif;font-weight: 400;font-style: normal;font-size:1rem;line-height:1.6667rem;letter-spacing:0rem;padding:0rem;text-decoration:none;text-decoration-color:#000000;-webkit-text-stroke: 0rem #000000;border-color:#000000;border-width:0rem;border-style:solid; }@media screen and (min-width: 992px) and (max-width: 1169.98px) { }@media screen and (min-width: 768px) and (max-width: 991.98px) { }@media screen and (min-width: 544px) and (max-width: 767.98px) { }@media screen and (max-width: 543.98px) { }
+			
+			
+		.project-panel {
+			background: #f5f5f5;
+			padding: 2.5rem 0rem;
+		}
+		[data-pp-gutter="no"] .project-panel .pp-thumbs,
+		.project-panel .pp-thumbs {
+			margin-bottom: -1.666666666666667rem;
+		}
+		#content-holder .panel-label, .projectnav-preview .panel-label {
+			color: #000000;
+			font-size: 1.777777777777778rem;
+			text-transform: none;
+			padding-left: 0rem;
+			padding-bottom: 1.666666666666667rem;
+			text-align: left;
+			line-height: 1;
+		}
+		.project-panel .pp-title {
+			padding: 0.5555555555555556rem 0rem 1.666666666666667rem 0rem;
+		}
+		.project-panel .pp-title a {
+			color: #000000; 
+			font-size: 0.7222222222222222rem; 
+			text-transform: none;
+		} 
+		.project-panel .pp-title span {
+			color: #999999;
+			font-size: 0.7222222222222222rem;
+			text-transform: none;
+		}
+		.semplice-next-prev {
+			background: #ffffff;
+			padding: 0rem 0rem 0rem 0rem;
+		}
+		.semplice-next-prev .np-inner {
+			height: 10rem;
+		}
+		.semplice-next-prev .np-inner .np-link .np-prefix,
+		.semplice-next-prev .np-inner .np-link .np-label {
+			color: #000000;
+			font-size: 1.555555555555556rem;
+			text-transform: none;
+			letter-spacing: 0rem;
+		}
+		.semplice-next-prev .np-inner .np-link .np-text-above {
+			padding-bottom: 2px;
+		}
+		.semplice-next-prev .np-inner .np-link .np-label-above {
+			color: #aaaaaa;
+			font-size: 0.7777777777777778rem;
+			text-transform: uppercase;
+			letter-spacing: 1px;
+		}
+		.semplice-next-prev .np-inner .np-link .np-text {
+			padding: 0rem 0rem;
+		}
+		.semplice-next .np-text {
+			margin-right: -0rem;
+		}
+		.semplice-next-prev .nextprev-seperator {
+			width: 1px;
+			margin: 1.666666666666667rem -0px;
+			background: #000000;
+		}
+	
+			.np-link:hover {
+				background: #ffffff;
+			}
+			.np-link:hover .np-text .np-label,
+			.np-link:hover .np-text .np-prefix {
+				color: #000000 !important;
+			}
+			.np-link:hover .np-label-above {
+				color: #000000 !important;
+			}
+		
+			.is-content { color: #2c2d2a; }a { color: #00caad; }a:hover { color: #b5e5cf; }.is-frontend .semplice-navbar {
+  position: fixed !important;
+  transition: ease transform 0.3s !important;
+}
+
+.semplice-navbar.hide-navbar {
+  transform: translateY(-100%) !important;
+}
+
+@keyframes marquee {
+   0% { background-position: 0; }
+   100% { background-position: -4250% }
+}
+.marquee-section {
+   animation: marquee 500s linear infinite;
+   animation-direction: reverse;
+}
+
+.marquee-section {
+   width: 2000px !important;
+} 
+
+.accordion-section {
+    transition: background 0.25s ease;
+}
+
+.accordion-section.active {
+    background: #00CAAD !important;
+}
+
+.accordion-section .accordion-button a {
+  font-size: 18px !important;
+  transition: none !important;
+  text-decoration: ;
+  position: relative !important;
+}
+
+.accordion-section .accordion-button a {
+  transition: none !important;
+  text-decoration: ;
+}
+
+.accordion-section.active .accordion-button a {
+    font-size: 0px !important;
+}
+
+.accordion-section.active .accordion-button a::before {
+    content: "HIDE ↑";
+    font-size: 18px !important;
+}
+
+
+
+.accordion-section:not(.active) .row:not(:first-child) .column {
+    height: 0px !important;
+    overflow: hidden !important;
+}
+
+.accordion-section:not(.active) .row:not(:first-child) {
+    opacity: 1;
+}
+
+.accordion-section .row:not(:first-child) {
+    opacity: 1;
+    transition: opacity 0.5s ease;
+}
+
+#content-holder .connect a {
+color: #000 !important;
+padding: 0px !important;
+background-color: #00caad !important;
+  border-radius: 20px;
+}
+
+#content-holder .connect a:hover {
+color: #3f625d !important;
+background-color: #b5e5cf !important;
+}
+
+#content-holder .connect a {
+  padding: 6px 12px !important;
+  margin-right: 0px !important;
+}
+
+#submit.forminator-field {display: none;}.back-to-top a svg { fill: #00caad; }.back-to-top a img, .back-to-top a svg { width: 2.2222222222222223rem; height: auto; }
+		</style>
+<style type="text/css" id="notfound-post-css">
+			#content-notfound { background: #eeeeee; }
+			.nav_4p3bvl2kp { background-color: rgba(63, 98, 93, 1);; }.nav_4p3bvl2kp .navbar-inner .navbar-left, .nav_4p3bvl2kp .navbar-inner .navbar-center, .nav_4p3bvl2kp .navbar-inner .navbar-distributed { left: 1.3888888888888888rem; }.nav_4p3bvl2kp .container-fluid .navbar-inner .navbar-right, .nav_4p3bvl2kp .container-fluid .navbar-inner .navbar-distributed { right: 1.3888888888888888rem; }.nav_4p3bvl2kp .container-fluid .hamburger a:after { padding-right: 1.1111111111111rem; }.nav_4p3bvl2kp .logo img, .nav_4p3bvl2kp .logo svg { width: 11.11111111111111rem; }.nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon span { background-color: #ffffff; }.nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon { width: 1.6666666666666667rem; }.nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon span { height: 2px; }.nav_4p3bvl2kp .navbar-inner .hamburger a.open-menu span::before { transform: translateY(-7px); }.nav_4p3bvl2kp .navbar-inner .hamburger a.open-menu span::after { transform: translateY(7px); }.nav_4p3bvl2kp .navbar-inner .hamburger a.open-menu:hover span::before { transform: translateY(-9px); }.nav_4p3bvl2kp .navbar-inner .hamburger a.open-menu:hover span::after { transform: translateY(9px); }.nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon { height: 16px; }.nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon span { margin-top: 8px; }.nav_4p3bvl2kp .navbar-inner .hamburger { display: flex; }.nav_4p3bvl2kp .navbar-inner nav ul li a span { color: #ffffff; }.nav_4p3bvl2kp .navbar-inner nav ul li a span { text-transform: uppercase; }.nav_4p3bvl2kp .navbar-inner nav ul li a span { border-bottom-color: #00caad; }#overlay-menu { background-color: rgba(63, 98, 93, 1); }#overlay-menu .overlay-menu-inner nav ul li a span { font-size: 1.9444444444444444rem; }#overlay-menu .overlay-menu-inner nav ul li a span { color: #00caad; }#overlay-menu .overlay-menu-inner nav ul li a { padding-top: 0.97222222222222rem; }#overlay-menu .overlay-menu-inner nav ul li a { padding-bottom: 0.97222222222222rem; }#overlay-menu .overlay-menu-inner nav ul li a:hover span { color: #e7f9fc; }#overlay-menu .overlay-menu-inner nav ul li.current-menu-item a span { color: #e7f9fc; }#overlay-menu .overlay-menu-inner nav ul li.current_page_item a span { color: #e7f9fc; }[data-post-type="project"] #overlay-menu .overlay-menu-inner nav ul li.portfolio-grid a span, [data-post-type="post"] #overlay-menu .overlay-menu-inner nav ul li.blog-overview a span { color: #e7f9fc; }@media screen and (min-width: 992px) and (max-width: 1169.98px) { .nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon { height: 16px; }.nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon span { margin-top: 8px; }}@media screen and (min-width: 768px) and (max-width: 991.98px) { .nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon { height: 16px; }.nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon span { margin-top: 8px; }}@media screen and (min-width: 544px) and (max-width: 767.98px) { .nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon { height: 16px; }.nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon span { margin-top: 8px; }}@media screen and (max-width: 543.98px) { .nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon { height: 16px; }.nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon span { margin-top: 8px; }}
+		</style>
+<style type="text/css" id="wp-custom-css">
+			#submit.forminator-field {display: none;}		</style>
+<style>html{margin-top:0px!important;}#wpadminbar{top:auto!important;bottom:0;}</style>
+<link rel="shortcut icon" type="image/png" href="https://gravitoken.co.uk/wp-content/uploads/2021/07/grv-favicon.png" sizes="32x32"> </head>
+<body class="error404 is-frontend dynamic-mode mejs-semplice-ui" data-post-type="" data-post-id="">
+<div id="content-holder" data-active-post="notfound">
+<header class="nav_4p3bvl2kp semplice-navbar active-navbar sticky-nav  cover-transparent" data-cover-transparent="enabled" data-bg-overlay-visibility="hidden">
+<div class="container-fluid" data-nav="logo-left-menu-right">
+<div class="navbar-inner menu-type-hamburger" data-xl-width="12" data-navbar-type="container-fluid">
+<div class="logo navbar-left"><a href="https://gravitoken.co.uk" title="Gravitoken">
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 242.79 37.41" style="enable-background:new 0 0 242.79 37.41;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#5AC8AF;}
+</style>
+<g>
+<path class="st0" d="M91.01,16.94c-0.03,0.72-0.08,1.23-0.15,1.77c-0.85,5.38-4.49,8.97-10.44,8.97c-5.1,0-8.44-3.41-8.44-7.82
+		c0-5.56,4.51-10.13,10.62-10.13c4.49,0,7.59,1.97,8.23,5.13l-6.15,1.33c-0.38-1.05-1.21-1.44-2.46-1.44
+		c-2.51,0-4.49,2.05-4.49,4.54c0,1.92,1.21,3.36,3.23,3.36c1.64,0,2.69-0.64,3.08-1.26h-3.36l1.03-4.46H91.01z" />
+<path class="st0" d="M103.88,21.63l3.31,5.67h-6.26l-2.85-5.08h-1.05l-1.18,5.08h-5.67l3.95-17.18h8.85c3.67,0,5.79,1.95,5.79,5.03
+		C108.78,18.12,106.81,20.55,103.88,21.63z M100.57,17.94c1.49,0,2.49-0.87,2.49-1.95c0-0.85-0.62-1.33-1.72-1.33h-2.59l-0.74,3.28
+		H100.57z" />
+<path class="st0" d="M121.19,27.3l-0.23-2.08h-6.31l-1.2,2.08h-6.26l10.64-17.18h6.51l2.69,17.18H121.19z M119.98,15.94l-2.69,4.67
+		h3.18L119.98,15.94z" />
+<path class="st0" d="M134.96,27.3h-5.56l-2.74-17.18h5.79l1.18,9.64l5.21-9.64h6.82L134.96,27.3z" />
+<path class="st0" d="M142.85,27.3l3.95-17.18h5.67l-3.95,17.18H142.85z" />
+<path class="st0" d="M163.59,14.89l-2.87,12.41h-5.67l2.87-12.41h-5.23l1.1-4.77h16.13l-1.1,4.77H163.59z" />
+<path class="st0" d="M188,18.71c-0.62,5.03-4.46,8.97-10.23,8.97c-5.26,0-9.1-3.95-8.49-8.97c0.62-5.03,4.95-8.97,10.21-8.97
+		C184.75,9.73,188.62,13.68,188,18.71z M182.31,18.71c0.26-2.23-1.03-3.95-3.21-3.95c-2.18,0-3.87,1.72-4.13,3.95
+		c-0.28,2.23,0.97,3.95,3.15,3.95S182.03,20.94,182.31,18.71z" />
+<path class="st0" d="M204.98,27.3h-6.69l-2.72-5.64h-0.74l-1.31,5.64h-5.67l3.95-17.18h5.67l-1.41,6.15h0.13l5.44-6.15h7.36
+		l-8.23,9.31L204.98,27.3z" />
+<path class="st0" d="M214.03,16.65h7.51l-0.95,4.1h-7.51l-0.44,1.9h8.33l-1.08,4.64h-14l3.97-17.18h13.87l-1.08,4.64h-8.2
+		L214.03,16.65z" />
+<path class="st0" d="M238.84,27.3h-4.64l-5.15-7.85l-1.82,7.85h-5.67l3.95-17.18h4.64l5.1,8.08l1.87-8.08h5.67L238.84,27.3z" />
+</g>
+<g>
+<g>
+<path class="st0" d="M30.91,21.93c0.76,0.36,1.53,0.71,2.28,1.05h8.67c-0.38,1.14-0.95,2.15-1.66,3.02
+			c2.77,1.13,5.43,2.12,7.91,2.96c1.75-2.87,2.73-6.34,2.73-10.2c0-0.91-0.05-1.98-0.21-3.26H30.91V21.93z" />
+<path class="st0" d="M21.94,17.46c0.56-5.41,4.78-9.39,10.2-9.39c3.47,0,6.89,1.07,8.98,5.13l8.5-2.46C47.1,3.74,40.1,0,32.14,0
+			c-8.65,0-15.78,5.34-18.22,12.9C16.35,14.39,19.05,15.93,21.94,17.46z" />
+<path class="st0" d="M35.01,29.12c-0.82,0.18-1.69,0.28-2.61,0.28c-4.29,0-7.84-2.36-9.51-5.94c-3.54-1.8-6.87-3.62-9.88-5.4
+			C13.01,18.27,13,18.49,13,18.71c0,10.53,8.44,18.71,19.29,18.71c4.94,0,9.25-1.64,12.46-4.46C41.7,31.87,38.41,30.57,35.01,29.12z
+			" />
+</g>
+<g>
+<path class="st1" d="M34.35,13.07c-1.9-0.9-3.78-1.75-5.64-2.56c-0.54,0.23-1.05,0.52-1.52,0.86c1.75,0.75,3.53,1.55,5.33,2.38
+			h3.26C35.31,13.53,34.83,13.3,34.35,13.07z" />
+<path class="st1" d="M55.55,24.91c-1.03-0.71-2.13-1.44-3.31-2.17c-0.09,0.49-0.19,0.98-0.3,1.46c0.99,0.63,1.94,1.25,2.82,1.86
+			c6.2,4.28,7.36,6.44,7.1,6.98c-0.26,0.54-2.66,1.02-9.9-1.05c-6.24-1.78-14.2-4.89-22.4-8.77S13.89,15.18,8.55,11.5
+			c-6.2-4.28-7.36-6.44-7.1-6.98c0.11-0.24,0.65-0.47,1.83-0.47c1.5,0,4.03,0.36,8.07,1.51c1.2,0.34,2.46,0.73,3.77,1.17
+			c0.29-0.4,0.59-0.79,0.91-1.16c-1.5-0.5-2.94-0.96-4.3-1.34C1.43,1.28,0.49,3.27,0.19,3.92s-1.24,2.64,7.57,8.72
+			c5.4,3.73,12.93,7.93,21.2,11.84s16.3,7.05,22.61,8.85c4.12,1.18,6.75,1.56,8.43,1.56c2.52,0,2.93-0.87,3.12-1.26
+			C63.43,32.98,64.37,30.99,55.55,24.91z" />
+</g>
+</g>
+</svg>
+</a></div>
+<div class="hamburger navbar-right semplice-menu"><a class="open-menu menu-icon"><span></span></a></div>
+</div>
+</div>
+</header>
+<div id="overlay-menu">
+<div class="overlay-menu-inner" data-xl-width="12">
+<nav class="overlay-nav" data-justify="center" data-align="align-middle" data-font="font_1a9vm0e41">
+<ul class="container"><li class="hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-94"><a target="_blank" rel="noopener" href="https://gravitoken.co.uk/buy"><span>BUY NOW</span></a></li>
+<li class="hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-213"><a href="https://gravitoken.co.uk/dashboard"><span>DASHBOARD</span></a></li>
+<li class="hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-99"><a href="#whyinvest"><span>WHY GRAVITOKEN?</span></a></li>
+<li class="hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-113"><a href="#FAQ"><span>FAQ</span></a></li>
+<li class="hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-175"><a href="#Roadmap"><span>ROADMAP</span></a></li>
+<li class="hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-101"><a target="_blank" rel="noopener" href="https://charts.bogged.finance/0x1337ace33C2B3Fc17d85f33dbD0Ed73a896148B5"><span>PRICE CHART</span></a></li>
+<li class="hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-98"><a target="_blank" rel="noopener" href="https://medium.com/@Gravitoken/gravitoken-grv-22b0e747e872"><span>WHITEPAPER</span></a></li>
+<li class="connect menu-item menu-item-type-custom menu-item-object-custom menu-item-181"><a href="https://gravitoken.co.uk/connect"><span>CONNECT</span></a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div id="content-notfound" class="content-container active-content ">
+<div class="transition-wrap">
+<div class="sections">
+<section class="content-block">
+<div class="no-content">
+404 - Not found<br /><span>This page could not be found.<br />Continue to the <a href="https://gravitoken.co.uk">Homepage</a></span>
+</div></section>
+</div>
+</div>
+</div>
+</div>
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="pswp__bg"></div>
+<div class="pswp__scroll-wrap">
+<div class="pswp__container">
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+<div class="pswp__item"></div>
+</div>
+<div class="pswp__ui pswp__ui--hidden">
+<div class="pswp__top-bar">
+<div class="pswp__counter"></div>
+<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+<button class="pswp__button pswp__button--share" title="Share"></button>
+<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+<div class="pswp__preloader">
+<div class="pswp__preloader__icn">
+<div class="pswp__preloader__cut">
+<div class="pswp__preloader__donut"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+<div class="pswp__share-tooltip"></div>
+</div>
+<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+</button>
+<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+</button>
+<div class="pswp__caption">
+<div class="pswp__caption__center"></div>
+</div>
+</div>
+</div>
+</div> <div class="back-to-top">
+<a class="semplice-event" data-event-type="helper" data-event="scrollToTop"><svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="53px" height="20px" viewBox="0 0 53 20" enable-background="new 0 0 53 20" xml:space="preserve">
+<g id="Ebene_3">
+</g>
+<g>
+<polygon points="43.886,16.221 42.697,17.687 26.5,4.731 10.303,17.688 9.114,16.221 26.5,2.312 	" />
+</g>
+</svg>
+</a>
+</div>
+<script type='text/javascript' src='https://gravitoken.co.uk/wp-content/plugins/responsive-youtube-vimeo-popup/assets/js/wp-video-popup.js?ver=2.9.2' id='wp-video-popup-js'></script>
+<script type='text/javascript' src='https://gravitoken.co.uk/wp-content/themes/semplice5/assets/js/shared.scripts.min.js?ver=5.3.1' id='semplice-shared-scripts-js'></script>
+<script type='text/javascript' src='https://gravitoken.co.uk/wp-content/themes/semplice5/assets/js/frontend.scripts.min.js?ver=5.3.1' id='semplice-frontend-scripts-js'></script>
+<script type='text/javascript' id='mediaelement-core-js-before'>
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://gravitoken.co.uk/wp/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.16' id='mediaelement-core-js'></script>
+<script type='text/javascript' src='https://gravitoken.co.uk/wp/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.9.1' id='mediaelement-migrate-js'></script>
+<script type='text/javascript' id='mediaelement-js-extra'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' id='semplice-frontend-js-js-extra'>
+/* <![CDATA[ */
+var semplice = {"default_api_url":"https:\/\/gravitoken.co.uk\/wp-json","semplice_api_url":"https:\/\/gravitoken.co.uk\/wp-json\/semplice\/v1\/frontend","template_dir":"https:\/\/gravitoken.co.uk\/wp-content\/themes\/semplice5","category_base":"\/category\/","tag_base":"\/tag\/","nonce":"2029f55452","frontend_mode":"dynamic","static_transitions":"disabled","site_name":"Gravitoken","base_url":"https:\/\/gravitoken.co.uk","frontpage_id":"161","blog_home":"https:\/\/gravitoken.co.uk","blog_navbar":"","sr_status":"enabled","blog_sr_status":"enabled","is_preview":"","password_form":"\r\n<div class=\"post-password-form post-password-form-dark\">\r\n\t<div class=\"inner\">\r\n\t\t<form action=\"https:\/\/gravitoken.co.uk\/wp\/wp-login.php?action=postpass\" method=\"post\">\r\n\t\t\t<div class=\"password-lock\"><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"35\" height=\"52\" viewBox=\"0 0 35 52\">\r\n  <path id=\"Form_1\" data-name=\"Form 1\" d=\"M31.3,25.028H27.056a0.755,0.755,0,0,1-.752-0.757V14.654a8.8,8.8,0,1,0-17.608,0v9.616a0.755,0.755,0,0,1-.752.757H3.7a0.755,0.755,0,0,1-.752-0.757V14.654a14.556,14.556,0,1,1,29.111,0v9.616A0.755,0.755,0,0,1,31.3,25.028Zm-3.495-1.514h2.743V14.654a13.051,13.051,0,1,0-26.1,0v8.859H7.192V14.654a10.309,10.309,0,1,1,20.617,0v8.859Zm4.43,28.475H2.761A2.77,2.77,0,0,1,0,49.213V25.28a1.763,1.763,0,0,1,1.755-1.766H33.242A1.763,1.763,0,0,1,35,25.28V49.213A2.77,2.77,0,0,1,32.239,51.988ZM1.758,25.028a0.252,0.252,0,0,0-.251.252V49.213a1.259,1.259,0,0,0,1.254,1.262H32.239a1.259,1.259,0,0,0,1.254-1.262V25.28a0.252,0.252,0,0,0-.251-0.252H1.758ZM20.849,43h-6.7a0.75,0.75,0,0,1-.61-0.314,0.763,0.763,0,0,1-.1-0.682l1.471-4.44a4.1,4.1,0,1,1,5.184,0L21.563,42a0.763,0.763,0,0,1-.1.682A0.75,0.75,0,0,1,20.849,43ZM15.2,41.487H19.8l-1.319-3.979a0.76,0.76,0,0,1,.33-0.891,2.6,2.6,0,1,0-2.633,0,0.76,0.76,0,0,1,.33.891Z\"\/>\r\n<\/svg>\r\n<\/div>\r\n\t\t\t<p>This content is protected. <br \/><span>To view, please enter the password.<\/span><\/p>\r\n\t\t\t<div class=\"input-fields\">\r\n\t\t\t\t<input name=\"post_password\" class=\"post-password-input\" type=\"password\" size=\"20\" maxlength=\"20\" placeholder=\"Enter password\" \/><a class=\"post-password-submit semplice-event\" data-event-type=\"helper\" data-event=\"postPassword\" data-id=\"0\">Submit<\/a>\t\t\t<\/div>\r\n\t\t<\/form>\r\n\t<\/div>\r\n<\/div>\r\n\r\n","portfolio_order":[],"gallery":{"prev":"<svg version=\"1.1\" id=\"Ebene_1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\n\twidth=\"18px\" height=\"40px\"  viewBox=\"0 0 18 40\" enable-background=\"new 0 0 18 40\" xml:space=\"preserve\">\n<g id=\"Ebene_2\">\n\t<g>\n\t\t<polygon points=\"16.3,40 0.3,20 16.3,0 17.7,1 2.5,20 17.7,39 \t\t\"\/>\n\t<\/g>\n<\/g>\n<\/svg>\n","next":"<svg version=\"1.1\" id=\"Ebene_1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\n\twidth=\"18px\" height=\"40px\" viewBox=\"0 0 18 40\" enable-background=\"new 0 0 18 40\" xml:space=\"preserve\">\n<g id=\"Ebene_2\">\n\t<g>\n\t\t<polygon points=\"0.3,39 15.5,20 0.3,1 1.7,0 17.7,20 1.7,40 \t\t\"\/>\n\t<\/g>\n<\/g>\n<\/svg>\n"},"menus":{"nav_4p3bvl2kp":{"html":"\r\n\t\t\t\t\t\t<header class=\"nav_4p3bvl2kp semplice-navbar active-navbar sticky-nav  cover-transparent\" data-cover-transparent=\"enabled\" data-bg-overlay-visibility=\"hidden\">\r\n\t\t\t\t\t\t\t<div class=\"container-fluid\" data-nav=\"logo-left-menu-right\">\r\n\t\t\t\t\t\t\t\t<div class=\"navbar-inner menu-type-hamburger\" data-xl-width=\"12\" data-navbar-type=\"container-fluid\">\r\n\t\t\t\t\t\t\t\t\t<div class=\"logo navbar-left\"><a href=\"https:\/\/gravitoken.co.uk\" title=\"Gravitoken\"><?xml version=\"1.0\" encoding=\"utf-8\"?>\n<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->\n<svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\n\t viewBox=\"0 0 242.79 37.41\" style=\"enable-background:new 0 0 242.79 37.41;\" xml:space=\"preserve\">\n<style type=\"text\/css\">\n\t.st0{fill:#FFFFFF;}\n\t.st1{fill:#5AC8AF;}\n<\/style>\n<g>\n\t<path class=\"st0\" d=\"M91.01,16.94c-0.03,0.72-0.08,1.23-0.15,1.77c-0.85,5.38-4.49,8.97-10.44,8.97c-5.1,0-8.44-3.41-8.44-7.82\n\t\tc0-5.56,4.51-10.13,10.62-10.13c4.49,0,7.59,1.97,8.23,5.13l-6.15,1.33c-0.38-1.05-1.21-1.44-2.46-1.44\n\t\tc-2.51,0-4.49,2.05-4.49,4.54c0,1.92,1.21,3.36,3.23,3.36c1.64,0,2.69-0.64,3.08-1.26h-3.36l1.03-4.46H91.01z\"\/>\n\t<path class=\"st0\" d=\"M103.88,21.63l3.31,5.67h-6.26l-2.85-5.08h-1.05l-1.18,5.08h-5.67l3.95-17.18h8.85c3.67,0,5.79,1.95,5.79,5.03\n\t\tC108.78,18.12,106.81,20.55,103.88,21.63z M100.57,17.94c1.49,0,2.49-0.87,2.49-1.95c0-0.85-0.62-1.33-1.72-1.33h-2.59l-0.74,3.28\n\t\tH100.57z\"\/>\n\t<path class=\"st0\" d=\"M121.19,27.3l-0.23-2.08h-6.31l-1.2,2.08h-6.26l10.64-17.18h6.51l2.69,17.18H121.19z M119.98,15.94l-2.69,4.67\n\t\th3.18L119.98,15.94z\"\/>\n\t<path class=\"st0\" d=\"M134.96,27.3h-5.56l-2.74-17.18h5.79l1.18,9.64l5.21-9.64h6.82L134.96,27.3z\"\/>\n\t<path class=\"st0\" d=\"M142.85,27.3l3.95-17.18h5.67l-3.95,17.18H142.85z\"\/>\n\t<path class=\"st0\" d=\"M163.59,14.89l-2.87,12.41h-5.67l2.87-12.41h-5.23l1.1-4.77h16.13l-1.1,4.77H163.59z\"\/>\n\t<path class=\"st0\" d=\"M188,18.71c-0.62,5.03-4.46,8.97-10.23,8.97c-5.26,0-9.1-3.95-8.49-8.97c0.62-5.03,4.95-8.97,10.21-8.97\n\t\tC184.75,9.73,188.62,13.68,188,18.71z M182.31,18.71c0.26-2.23-1.03-3.95-3.21-3.95c-2.18,0-3.87,1.72-4.13,3.95\n\t\tc-0.28,2.23,0.97,3.95,3.15,3.95S182.03,20.94,182.31,18.71z\"\/>\n\t<path class=\"st0\" d=\"M204.98,27.3h-6.69l-2.72-5.64h-0.74l-1.31,5.64h-5.67l3.95-17.18h5.67l-1.41,6.15h0.13l5.44-6.15h7.36\n\t\tl-8.23,9.31L204.98,27.3z\"\/>\n\t<path class=\"st0\" d=\"M214.03,16.65h7.51l-0.95,4.1h-7.51l-0.44,1.9h8.33l-1.08,4.64h-14l3.97-17.18h13.87l-1.08,4.64h-8.2\n\t\tL214.03,16.65z\"\/>\n\t<path class=\"st0\" d=\"M238.84,27.3h-4.64l-5.15-7.85l-1.82,7.85h-5.67l3.95-17.18h4.64l5.1,8.08l1.87-8.08h5.67L238.84,27.3z\"\/>\n<\/g>\n<g>\n\t<g>\n\t\t<path class=\"st0\" d=\"M30.91,21.93c0.76,0.36,1.53,0.71,2.28,1.05h8.67c-0.38,1.14-0.95,2.15-1.66,3.02\n\t\t\tc2.77,1.13,5.43,2.12,7.91,2.96c1.75-2.87,2.73-6.34,2.73-10.2c0-0.91-0.05-1.98-0.21-3.26H30.91V21.93z\"\/>\n\t\t<path class=\"st0\" d=\"M21.94,17.46c0.56-5.41,4.78-9.39,10.2-9.39c3.47,0,6.89,1.07,8.98,5.13l8.5-2.46C47.1,3.74,40.1,0,32.14,0\n\t\t\tc-8.65,0-15.78,5.34-18.22,12.9C16.35,14.39,19.05,15.93,21.94,17.46z\"\/>\n\t\t<path class=\"st0\" d=\"M35.01,29.12c-0.82,0.18-1.69,0.28-2.61,0.28c-4.29,0-7.84-2.36-9.51-5.94c-3.54-1.8-6.87-3.62-9.88-5.4\n\t\t\tC13.01,18.27,13,18.49,13,18.71c0,10.53,8.44,18.71,19.29,18.71c4.94,0,9.25-1.64,12.46-4.46C41.7,31.87,38.41,30.57,35.01,29.12z\n\t\t\t\"\/>\n\t<\/g>\n\t<g>\n\t\t<path class=\"st1\" d=\"M34.35,13.07c-1.9-0.9-3.78-1.75-5.64-2.56c-0.54,0.23-1.05,0.52-1.52,0.86c1.75,0.75,3.53,1.55,5.33,2.38\n\t\t\th3.26C35.31,13.53,34.83,13.3,34.35,13.07z\"\/>\n\t\t<path class=\"st1\" d=\"M55.55,24.91c-1.03-0.71-2.13-1.44-3.31-2.17c-0.09,0.49-0.19,0.98-0.3,1.46c0.99,0.63,1.94,1.25,2.82,1.86\n\t\t\tc6.2,4.28,7.36,6.44,7.1,6.98c-0.26,0.54-2.66,1.02-9.9-1.05c-6.24-1.78-14.2-4.89-22.4-8.77S13.89,15.18,8.55,11.5\n\t\t\tc-6.2-4.28-7.36-6.44-7.1-6.98c0.11-0.24,0.65-0.47,1.83-0.47c1.5,0,4.03,0.36,8.07,1.51c1.2,0.34,2.46,0.73,3.77,1.17\n\t\t\tc0.29-0.4,0.59-0.79,0.91-1.16c-1.5-0.5-2.94-0.96-4.3-1.34C1.43,1.28,0.49,3.27,0.19,3.92s-1.24,2.64,7.57,8.72\n\t\t\tc5.4,3.73,12.93,7.93,21.2,11.84s16.3,7.05,22.61,8.85c4.12,1.18,6.75,1.56,8.43,1.56c2.52,0,2.93-0.87,3.12-1.26\n\t\t\tC63.43,32.98,64.37,30.99,55.55,24.91z\"\/>\n\t<\/g>\n<\/g>\n<\/svg>\n<\/a><\/div>\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<div class=\"hamburger navbar-right semplice-menu\"><a class=\"open-menu menu-icon\"><span><\/span><\/a><\/div>\r\n\t\t\t\t\t\t\t\t<\/div>\r\n\t\t\t\t\t\t\t<\/div>\r\n\t\t\t\t\t\t<\/header>\r\n\t\t\t\t\t\t\r\n\t\t\t\t<div id=\"overlay-menu\">\r\n\t\t\t\t\t<div class=\"overlay-menu-inner\" data-xl-width=\"12\">\r\n\t\t\t\t\t\t<nav class=\"overlay-nav\" data-justify=\"center\" data-align=\"align-middle\" data-font=\"font_1a9vm0e41\">\r\n\t\t\t\t\t\t\t<ul class=\"container\"><li class=\"hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-94\"><a target=\"_blank\" rel=\"noopener\" href=\"http:\/\/gravitoken.co.uk\/buy\"><span>BUY NOW<\/span><\/a><\/li>\n<li class=\"hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-213\"><a href=\"https:\/\/gravitoken.co.uk\/dashboard\"><span>DASHBOARD<\/span><\/a><\/li>\n<li class=\"hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-99\"><a href=\"#whyinvest\"><span>WHY GRAVITOKEN?<\/span><\/a><\/li>\n<li class=\"hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-113\"><a href=\"#FAQ\"><span>FAQ<\/span><\/a><\/li>\n<li class=\"hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-175\"><a href=\"#Roadmap\"><span>ROADMAP<\/span><\/a><\/li>\n<li class=\"hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-101\"><a target=\"_blank\" rel=\"noopener\" href=\"https:\/\/charts.bogged.finance\/0x1337ace33C2B3Fc17d85f33dbD0Ed73a896148B5\"><span>PRICE CHART<\/span><\/a><\/li>\n<li class=\"hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-98\"><a target=\"_blank\" rel=\"noopener\" href=\"https:\/\/medium.com\/@Gravitoken\/gravitoken-grv-22b0e747e872\"><span>WHITEPAPER<\/span><\/a><\/li>\n<li class=\"connect menu-item menu-item-type-custom menu-item-object-custom menu-item-181\"><a href=\"https:\/\/gravitoken.co.uk\/connect\"><span>CONNECT<\/span><\/a><\/li>\n<\/ul>\r\n\t\t\t\t\t\t<\/nav>\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t<\/div>\r\n\t\t\t\r\n\t\t\t\t\t","css":".nav_4p3bvl2kp { background-color: rgba(63, 98, 93, 1);; }.nav_4p3bvl2kp .navbar-inner .navbar-left, .nav_4p3bvl2kp .navbar-inner .navbar-center, .nav_4p3bvl2kp .navbar-inner .navbar-distributed { left: 1.3888888888888888rem; }.nav_4p3bvl2kp .container-fluid .navbar-inner .navbar-right, .nav_4p3bvl2kp .container-fluid .navbar-inner .navbar-distributed { right: 1.3888888888888888rem; }.nav_4p3bvl2kp .container-fluid .hamburger a:after { padding-right: 1.1111111111111rem; }.nav_4p3bvl2kp .logo img, .nav_4p3bvl2kp .logo svg { width: 11.11111111111111rem; }.nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon span { background-color: #ffffff; }.nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon { width: 1.6666666666666667rem; }.nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon span { height: 2px; }.nav_4p3bvl2kp .navbar-inner .hamburger a.open-menu span::before { transform: translateY(-7px); }.nav_4p3bvl2kp .navbar-inner .hamburger a.open-menu span::after { transform: translateY(7px); }.nav_4p3bvl2kp .navbar-inner .hamburger a.open-menu:hover span::before { transform: translateY(-9px); }.nav_4p3bvl2kp .navbar-inner .hamburger a.open-menu:hover span::after { transform: translateY(9px); }.nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon { height: 16px; }.nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon span { margin-top: 8px; }.nav_4p3bvl2kp .navbar-inner .hamburger { display: flex; }.nav_4p3bvl2kp .navbar-inner nav ul li a span { color: #ffffff; }.nav_4p3bvl2kp .navbar-inner nav ul li a span { text-transform: uppercase; }.nav_4p3bvl2kp .navbar-inner nav ul li a span { border-bottom-color: #00caad; }#overlay-menu { background-color: rgba(63, 98, 93, 1); }#overlay-menu .overlay-menu-inner nav ul li a span { font-size: 1.9444444444444444rem; }#overlay-menu .overlay-menu-inner nav ul li a span { color: #00caad; }#overlay-menu .overlay-menu-inner nav ul li a { padding-top: 0.97222222222222rem; }#overlay-menu .overlay-menu-inner nav ul li a { padding-bottom: 0.97222222222222rem; }#overlay-menu .overlay-menu-inner nav ul li a:hover span { color: #e7f9fc; }#overlay-menu .overlay-menu-inner nav ul li.current-menu-item a span { color: #e7f9fc; }#overlay-menu .overlay-menu-inner nav ul li.current_page_item a span { color: #e7f9fc; }[data-post-type=\"project\"] #overlay-menu .overlay-menu-inner nav ul li.portfolio-grid a span, [data-post-type=\"post\"] #overlay-menu .overlay-menu-inner nav ul li.blog-overview a span { color: #e7f9fc; }@media screen and (min-width: 992px) and (max-width: 1169.98px) { .nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon { height: 16px; }.nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon span { margin-top: 8px; }}@media screen and (min-width: 768px) and (max-width: 991.98px) { .nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon { height: 16px; }.nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon span { margin-top: 8px; }}@media screen and (min-width: 544px) and (max-width: 767.98px) { .nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon { height: 16px; }.nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon span { margin-top: 8px; }}@media screen and (max-width: 543.98px) { .nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon { height: 16px; }.nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon span { margin-top: 8px; }}","mobile_css":{"lg":".nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon { height: 16px; }.nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon span { margin-top: 8px; }","md":".nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon { height: 16px; }.nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon span { margin-top: 8px; }","sm":".nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon { height: 16px; }.nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon span { margin-top: 8px; }","xs":".nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon { height: 16px; }.nav_4p3bvl2kp .navbar-inner .hamburger a.menu-icon span { margin-top: 8px; }"}},"default":"nav_4p3bvl2kp","nav_3ddptkngg":{"html":"\r\n\t\t\t\t\t\t<header class=\"nav_3ddptkngg semplice-navbar active-navbar sticky-nav  cover-transparent scroll-to-top\" data-cover-transparent=\"enabled\" data-bg-overlay-visibility=\"hidden\" data-mobile-fallback=\"disabled\">\r\n\t\t\t\t\t\t\t<div class=\"container-fluid\" data-nav=\"logo-left-menu-right\">\r\n\t\t\t\t\t\t\t\t<div class=\"navbar-inner menu-type-text\" data-xl-width=\"12\" data-navbar-type=\"container-fluid\">\r\n\t\t\t\t\t\t\t\t\t<div class=\"logo navbar-left\"><a href=\"https:\/\/gravitoken.co.uk\" title=\"Gravitoken\"><?xml version=\"1.0\" encoding=\"utf-8\"?>\n<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->\n<svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\n\t viewBox=\"0 0 242.79 37.41\" style=\"enable-background:new 0 0 242.79 37.41;\" xml:space=\"preserve\">\n<style type=\"text\/css\">\n\t.st0{fill:#FFFFFF;}\n\t.st1{fill:#5AC8AF;}\n<\/style>\n<g>\n\t<path class=\"st0\" d=\"M91.01,16.94c-0.03,0.72-0.08,1.23-0.15,1.77c-0.85,5.38-4.49,8.97-10.44,8.97c-5.1,0-8.44-3.41-8.44-7.82\n\t\tc0-5.56,4.51-10.13,10.62-10.13c4.49,0,7.59,1.97,8.23,5.13l-6.15,1.33c-0.38-1.05-1.21-1.44-2.46-1.44\n\t\tc-2.51,0-4.49,2.05-4.49,4.54c0,1.92,1.21,3.36,3.23,3.36c1.64,0,2.69-0.64,3.08-1.26h-3.36l1.03-4.46H91.01z\"\/>\n\t<path class=\"st0\" d=\"M103.88,21.63l3.31,5.67h-6.26l-2.85-5.08h-1.05l-1.18,5.08h-5.67l3.95-17.18h8.85c3.67,0,5.79,1.95,5.79,5.03\n\t\tC108.78,18.12,106.81,20.55,103.88,21.63z M100.57,17.94c1.49,0,2.49-0.87,2.49-1.95c0-0.85-0.62-1.33-1.72-1.33h-2.59l-0.74,3.28\n\t\tH100.57z\"\/>\n\t<path class=\"st0\" d=\"M121.19,27.3l-0.23-2.08h-6.31l-1.2,2.08h-6.26l10.64-17.18h6.51l2.69,17.18H121.19z M119.98,15.94l-2.69,4.67\n\t\th3.18L119.98,15.94z\"\/>\n\t<path class=\"st0\" d=\"M134.96,27.3h-5.56l-2.74-17.18h5.79l1.18,9.64l5.21-9.64h6.82L134.96,27.3z\"\/>\n\t<path class=\"st0\" d=\"M142.85,27.3l3.95-17.18h5.67l-3.95,17.18H142.85z\"\/>\n\t<path class=\"st0\" d=\"M163.59,14.89l-2.87,12.41h-5.67l2.87-12.41h-5.23l1.1-4.77h16.13l-1.1,4.77H163.59z\"\/>\n\t<path class=\"st0\" d=\"M188,18.71c-0.62,5.03-4.46,8.97-10.23,8.97c-5.26,0-9.1-3.95-8.49-8.97c0.62-5.03,4.95-8.97,10.21-8.97\n\t\tC184.75,9.73,188.62,13.68,188,18.71z M182.31,18.71c0.26-2.23-1.03-3.95-3.21-3.95c-2.18,0-3.87,1.72-4.13,3.95\n\t\tc-0.28,2.23,0.97,3.95,3.15,3.95S182.03,20.94,182.31,18.71z\"\/>\n\t<path class=\"st0\" d=\"M204.98,27.3h-6.69l-2.72-5.64h-0.74l-1.31,5.64h-5.67l3.95-17.18h5.67l-1.41,6.15h0.13l5.44-6.15h7.36\n\t\tl-8.23,9.31L204.98,27.3z\"\/>\n\t<path class=\"st0\" d=\"M214.03,16.65h7.51l-0.95,4.1h-7.51l-0.44,1.9h8.33l-1.08,4.64h-14l3.97-17.18h13.87l-1.08,4.64h-8.2\n\t\tL214.03,16.65z\"\/>\n\t<path class=\"st0\" d=\"M238.84,27.3h-4.64l-5.15-7.85l-1.82,7.85h-5.67l3.95-17.18h4.64l5.1,8.08l1.87-8.08h5.67L238.84,27.3z\"\/>\n<\/g>\n<g>\n\t<g>\n\t\t<path class=\"st0\" d=\"M30.91,21.93c0.76,0.36,1.53,0.71,2.28,1.05h8.67c-0.38,1.14-0.95,2.15-1.66,3.02\n\t\t\tc2.77,1.13,5.43,2.12,7.91,2.96c1.75-2.87,2.73-6.34,2.73-10.2c0-0.91-0.05-1.98-0.21-3.26H30.91V21.93z\"\/>\n\t\t<path class=\"st0\" d=\"M21.94,17.46c0.56-5.41,4.78-9.39,10.2-9.39c3.47,0,6.89,1.07,8.98,5.13l8.5-2.46C47.1,3.74,40.1,0,32.14,0\n\t\t\tc-8.65,0-15.78,5.34-18.22,12.9C16.35,14.39,19.05,15.93,21.94,17.46z\"\/>\n\t\t<path class=\"st0\" d=\"M35.01,29.12c-0.82,0.18-1.69,0.28-2.61,0.28c-4.29,0-7.84-2.36-9.51-5.94c-3.54-1.8-6.87-3.62-9.88-5.4\n\t\t\tC13.01,18.27,13,18.49,13,18.71c0,10.53,8.44,18.71,19.29,18.71c4.94,0,9.25-1.64,12.46-4.46C41.7,31.87,38.41,30.57,35.01,29.12z\n\t\t\t\"\/>\n\t<\/g>\n\t<g>\n\t\t<path class=\"st1\" d=\"M34.35,13.07c-1.9-0.9-3.78-1.75-5.64-2.56c-0.54,0.23-1.05,0.52-1.52,0.86c1.75,0.75,3.53,1.55,5.33,2.38\n\t\t\th3.26C35.31,13.53,34.83,13.3,34.35,13.07z\"\/>\n\t\t<path class=\"st1\" d=\"M55.55,24.91c-1.03-0.71-2.13-1.44-3.31-2.17c-0.09,0.49-0.19,0.98-0.3,1.46c0.99,0.63,1.94,1.25,2.82,1.86\n\t\t\tc6.2,4.28,7.36,6.44,7.1,6.98c-0.26,0.54-2.66,1.02-9.9-1.05c-6.24-1.78-14.2-4.89-22.4-8.77S13.89,15.18,8.55,11.5\n\t\t\tc-6.2-4.28-7.36-6.44-7.1-6.98c0.11-0.24,0.65-0.47,1.83-0.47c1.5,0,4.03,0.36,8.07,1.51c1.2,0.34,2.46,0.73,3.77,1.17\n\t\t\tc0.29-0.4,0.59-0.79,0.91-1.16c-1.5-0.5-2.94-0.96-4.3-1.34C1.43,1.28,0.49,3.27,0.19,3.92s-1.24,2.64,7.57,8.72\n\t\t\tc5.4,3.73,12.93,7.93,21.2,11.84s16.3,7.05,22.61,8.85c4.12,1.18,6.75,1.56,8.43,1.56c2.52,0,2.93-0.87,3.12-1.26\n\t\t\tC63.43,32.98,64.37,30.99,55.55,24.91z\"\/>\n\t<\/g>\n<\/g>\n<\/svg>\n<\/a><\/div>\r\n\t\t\t\t\t\t\t\t\t<nav class=\"standard navbar-right\" data-font=\"font_1a9vm0e41\"><ul class=\"menu\"><li class=\"hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-94\"><a target=\"_blank\" rel=\"noopener\" href=\"http:\/\/gravitoken.co.uk\/buy\"><span>BUY NOW<\/span><\/a><\/li>\n<li class=\"hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-213\"><a href=\"https:\/\/gravitoken.co.uk\/dashboard\"><span>DASHBOARD<\/span><\/a><\/li>\n<li class=\"hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-99\"><a href=\"#whyinvest\"><span>WHY GRAVITOKEN?<\/span><\/a><\/li>\n<li class=\"hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-113\"><a href=\"#FAQ\"><span>FAQ<\/span><\/a><\/li>\n<li class=\"hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-175\"><a href=\"#Roadmap\"><span>ROADMAP<\/span><\/a><\/li>\n<li class=\"hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-101\"><a target=\"_blank\" rel=\"noopener\" href=\"https:\/\/charts.bogged.finance\/0x1337ace33C2B3Fc17d85f33dbD0Ed73a896148B5\"><span>PRICE CHART<\/span><\/a><\/li>\n<li class=\"hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-98\"><a target=\"_blank\" rel=\"noopener\" href=\"https:\/\/medium.com\/@Gravitoken\/gravitoken-grv-22b0e747e872\"><span>WHITEPAPER<\/span><\/a><\/li>\n<li class=\"connect menu-item menu-item-type-custom menu-item-object-custom menu-item-181\"><a href=\"https:\/\/gravitoken.co.uk\/connect\"><span>CONNECT<\/span><\/a><\/li>\n<\/ul><\/nav>\r\n\t\t\t\t\t\t\t\t\t<div class=\"hamburger navbar-right semplice-menu\"><a class=\"open-menu menu-icon\"><span><\/span><\/a><\/div>\r\n\t\t\t\t\t\t\t\t<\/div>\r\n\t\t\t\t\t\t\t<\/div>\r\n\t\t\t\t\t\t<\/header>\r\n\t\t\t\t\t\t\r\n\t\t\t\t<div id=\"overlay-menu\">\r\n\t\t\t\t\t<div class=\"overlay-menu-inner\" data-xl-width=\"12\">\r\n\t\t\t\t\t\t<nav class=\"overlay-nav\" data-justify=\"center\" data-align=\"align-middle\" data-font=\"font_1a9vm0e41\">\r\n\t\t\t\t\t\t\t<ul class=\"container\"><li class=\"hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-94\"><a target=\"_blank\" rel=\"noopener\" href=\"http:\/\/gravitoken.co.uk\/buy\"><span>BUY NOW<\/span><\/a><\/li>\n<li class=\"hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-213\"><a href=\"https:\/\/gravitoken.co.uk\/dashboard\"><span>DASHBOARD<\/span><\/a><\/li>\n<li class=\"hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-99\"><a href=\"#whyinvest\"><span>WHY GRAVITOKEN?<\/span><\/a><\/li>\n<li class=\"hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-113\"><a href=\"#FAQ\"><span>FAQ<\/span><\/a><\/li>\n<li class=\"hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-175\"><a href=\"#Roadmap\"><span>ROADMAP<\/span><\/a><\/li>\n<li class=\"hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-101\"><a target=\"_blank\" rel=\"noopener\" href=\"https:\/\/charts.bogged.finance\/0x1337ace33C2B3Fc17d85f33dbD0Ed73a896148B5\"><span>PRICE CHART<\/span><\/a><\/li>\n<li class=\"hide-navigation-item menu-item menu-item-type-custom menu-item-object-custom menu-item-98\"><a target=\"_blank\" rel=\"noopener\" href=\"https:\/\/medium.com\/@Gravitoken\/gravitoken-grv-22b0e747e872\"><span>WHITEPAPER<\/span><\/a><\/li>\n<li class=\"connect menu-item menu-item-type-custom menu-item-object-custom menu-item-181\"><a href=\"https:\/\/gravitoken.co.uk\/connect\"><span>CONNECT<\/span><\/a><\/li>\n<\/ul>\r\n\t\t\t\t\t\t<\/nav>\r\n\t\t\t\t\t<\/div>\r\n\t\t\t\t<\/div>\r\n\t\t\t\r\n\t\t\t\t\t","css":".nav_3ddptkngg { background-color: rgba(63, 98, 93, 0);; }.nav_3ddptkngg .navbar-inner .navbar-left, .nav_3ddptkngg .navbar-inner .navbar-center, .nav_3ddptkngg .navbar-inner .navbar-distributed { left: 1.3888888888888888rem; }.nav_3ddptkngg .container-fluid .navbar-inner .navbar-right, .nav_3ddptkngg .container-fluid .navbar-inner .navbar-distributed { right: 1.3888888888888888rem; }.nav_3ddptkngg .container-fluid .hamburger a:after { padding-right: 1.1111111111111rem; }.nav_3ddptkngg .logo img, .nav_3ddptkngg .logo svg { width: 11.11111111111111rem; }.nav_3ddptkngg .navbar-inner .hamburger a.menu-icon span { background-color: #ffffff; }.nav_3ddptkngg .navbar-inner .hamburger a.menu-icon { width: 1.6666666666666667rem; }.nav_3ddptkngg .navbar-inner .hamburger a.menu-icon span { height: 2px; }.nav_3ddptkngg .navbar-inner .hamburger a.open-menu span::before { transform: translateY(-7px); }.nav_3ddptkngg .navbar-inner .hamburger a.open-menu span::after { transform: translateY(7px); }.nav_3ddptkngg .navbar-inner .hamburger a.open-menu:hover span::before { transform: translateY(-9px); }.nav_3ddptkngg .navbar-inner .hamburger a.open-menu:hover span::after { transform: translateY(9px); }.nav_3ddptkngg .navbar-inner .hamburger a.menu-icon { height: 16px; }.nav_3ddptkngg .navbar-inner .hamburger a.menu-icon span { margin-top: 8px; }.nav_3ddptkngg .navbar-inner nav ul li a span { color: #ffffff; }.nav_3ddptkngg .navbar-inner nav ul li a span { text-transform: uppercase; }.nav_3ddptkngg .navbar-inner nav ul li a span { border-bottom-color: #00caad; }#overlay-menu { background-color: rgba(63, 98, 93, 1); }#overlay-menu .overlay-menu-inner nav ul li a span { font-size: 1.9444444444444444rem; }#overlay-menu .overlay-menu-inner nav ul li a span { color: #00caad; }#overlay-menu .overlay-menu-inner nav ul li a { padding-top: 0.97222222222222rem; }#overlay-menu .overlay-menu-inner nav ul li a { padding-bottom: 0.97222222222222rem; }#overlay-menu .overlay-menu-inner nav ul li a:hover span { color: #e7f9fc; }#overlay-menu .overlay-menu-inner nav ul li.current-menu-item a span { color: #e7f9fc; }#overlay-menu .overlay-menu-inner nav ul li.current_page_item a span { color: #e7f9fc; }[data-post-type=\"project\"] #overlay-menu .overlay-menu-inner nav ul li.portfolio-grid a span, [data-post-type=\"post\"] #overlay-menu .overlay-menu-inner nav ul li.blog-overview a span { color: #e7f9fc; }@media screen and (min-width: 992px) and (max-width: 1169.98px) { .nav_3ddptkngg .navbar-inner .hamburger a.menu-icon { height: 16px; }.nav_3ddptkngg .navbar-inner .hamburger a.menu-icon span { margin-top: 8px; }}@media screen and (min-width: 768px) and (max-width: 991.98px) { .nav_3ddptkngg .navbar-inner .hamburger a.menu-icon { height: 16px; }.nav_3ddptkngg .navbar-inner .hamburger a.menu-icon span { margin-top: 8px; }}@media screen and (min-width: 544px) and (max-width: 767.98px) { .nav_3ddptkngg .navbar-inner .hamburger a.menu-icon { height: 16px; }.nav_3ddptkngg .navbar-inner .hamburger a.menu-icon span { margin-top: 8px; }}@media screen and (max-width: 543.98px) { .nav_3ddptkngg .navbar-inner .hamburger a.menu-icon { height: 16px; }.nav_3ddptkngg .navbar-inner .hamburger a.menu-icon span { margin-top: 8px; }}","mobile_css":{"lg":".nav_3ddptkngg .navbar-inner .hamburger a.menu-icon { height: 16px; }.nav_3ddptkngg .navbar-inner .hamburger a.menu-icon span { margin-top: 8px; }","md":".nav_3ddptkngg .navbar-inner .hamburger a.menu-icon { height: 16px; }.nav_3ddptkngg .navbar-inner .hamburger a.menu-icon span { margin-top: 8px; }","sm":".nav_3ddptkngg .navbar-inner .hamburger a.menu-icon { height: 16px; }.nav_3ddptkngg .navbar-inner .hamburger a.menu-icon span { margin-top: 8px; }","xs":".nav_3ddptkngg .navbar-inner .hamburger a.menu-icon { height: 16px; }.nav_3ddptkngg .navbar-inner .hamburger a.menu-icon span { margin-top: 8px; }"}},"nav_dmt2v715g":{"html":"\r\n\t\t\t\t\t\t<header class=\"nav_dmt2v715g semplice-navbar active-navbar sticky-nav  cover-transparent\" data-cover-transparent=\"enabled\" data-bg-overlay-visibility=\"hidden\" data-mobile-fallback=\"disabled\">\r\n\t\t\t\t\t\t\t<div class=\"container-fluid\" data-nav=\"logo-left-menu-right\">\r\n\t\t\t\t\t\t\t\t<div class=\"navbar-inner menu-type-text\" data-xl-width=\"12\" data-navbar-type=\"container-fluid\">\r\n\t\t\t\t\t\t\t\t\t<div class=\"logo navbar-left\"><a href=\"https:\/\/gravitoken.co.uk\" title=\"Gravitoken\"><?xml version=\"1.0\" encoding=\"utf-8\"?>\n<!-- Generator: Adobe Illustrator 25.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->\n<svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\n\t viewBox=\"0 0 242.79 37.41\" style=\"enable-background:new 0 0 242.79 37.41;\" xml:space=\"preserve\">\n<style type=\"text\/css\">\n\t.st0{fill:#FFFFFF;}\n\t.st1{fill:#5AC8AF;}\n<\/style>\n<g>\n\t<path class=\"st0\" d=\"M91.01,16.94c-0.03,0.72-0.08,1.23-0.15,1.77c-0.85,5.38-4.49,8.97-10.44,8.97c-5.1,0-8.44-3.41-8.44-7.82\n\t\tc0-5.56,4.51-10.13,10.62-10.13c4.49,0,7.59,1.97,8.23,5.13l-6.15,1.33c-0.38-1.05-1.21-1.44-2.46-1.44\n\t\tc-2.51,0-4.49,2.05-4.49,4.54c0,1.92,1.21,3.36,3.23,3.36c1.64,0,2.69-0.64,3.08-1.26h-3.36l1.03-4.46H91.01z\"\/>\n\t<path class=\"st0\" d=\"M103.88,21.63l3.31,5.67h-6.26l-2.85-5.08h-1.05l-1.18,5.08h-5.67l3.95-17.18h8.85c3.67,0,5.79,1.95,5.79,5.03\n\t\tC108.78,18.12,106.81,20.55,103.88,21.63z M100.57,17.94c1.49,0,2.49-0.87,2.49-1.95c0-0.85-0.62-1.33-1.72-1.33h-2.59l-0.74,3.28\n\t\tH100.57z\"\/>\n\t<path class=\"st0\" d=\"M121.19,27.3l-0.23-2.08h-6.31l-1.2,2.08h-6.26l10.64-17.18h6.51l2.69,17.18H121.19z M119.98,15.94l-2.69,4.67\n\t\th3.18L119.98,15.94z\"\/>\n\t<path class=\"st0\" d=\"M134.96,27.3h-5.56l-2.74-17.18h5.79l
